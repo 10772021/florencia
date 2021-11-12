@@ -1,0 +1,28 @@
+@charset "ISO-8859-1";
+
+html {
+	background-color: #7DCEA0;
+}
+
+strong {
+	font-weight: bold;
+}
+
+.fondo {
+	background-color: green;
+}
+
+.imgizq {
+	float: left;
+}
+
+h1 {
+	letter-spacing: 40px;
+	text-align: right;
+	color: blue;
+}
+
+.imgdcha {
+	float: right;
+	https: //htmlcolorcodes.com/es/
+}
